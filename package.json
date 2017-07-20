@@ -1,0 +1,33 @@
+{
+  "name": "cordova-plugin-dfp",
+  "version": "3.1.0",
+  "description": "DoubleClick for Publishers cordova plugin",
+  "cordova": {
+    "id": "cordova-plugin-unzip",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rickgbw/cordova-plugin-dfp.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.3.0"
+    }
+  ],
+  "author": "",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/rickgbw/cordova-plugin-dfp/issues"
+  },
+  "homepage": "https://github.com/rickgbw/cordova-plugin-dfp"
+}
